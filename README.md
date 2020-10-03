@@ -7,7 +7,7 @@ Simple and Fast Perl Script to XOR two files.
 
 # Run
 ```
-./run file1 file2 > file3
+./run.pl file1 file2 > file3
 ```
 
 Please change name of input files ```file1``` and ```file3```
