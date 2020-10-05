@@ -10,6 +10,6 @@ Simple and Fast Perl Script to XOR two files.
 ./run.pl file1 file2 > file3
 ```
 
-Please change name of input files ```file1``` and ```file3```
+Please change name of ```file1``` and ```file3``` - input files
 
 ```file3``` - output filename
